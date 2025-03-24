@@ -1,5 +1,5 @@
 import tensorflow as tf
-tf.__version__ = tf.version.VERSION  # Fix TensorFlow version attribute issue
+tf.__version__ = tf.version.VERSION 
 
 import cv2
 import json
